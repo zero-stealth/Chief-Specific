@@ -1,7 +1,5 @@
 # Chief-Specific
 A crime management for chiefs and user
-# splash screen
-![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/c7abb7159181007.6399832480921.png)
 # How to run the project
 # Rename the folder to watcher
 <br>
